@@ -1,0 +1,17 @@
+# Build directories and artifacts
+build/
+*.o
+*.obj
+*.exe
+robot_movement
+robot_movement_tests
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo

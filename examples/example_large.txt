@@ -1,0 +1,10 @@
+# Large grid drawing example (15x15)
+DIMENSION 15
+MOVE_TO 0, 0
+LINE_TO 14, 14
+MOVE_TO 14, 0
+LINE_TO 0, 14
+MOVE_TO 7, 0
+LINE_TO 7, 14
+MOVE_TO 0, 7
+LINE_TO 14, 7
